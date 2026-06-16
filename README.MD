@@ -27,14 +27,3 @@ O projeto está sendo construído utilizando as seguintes tecnologias:
 | **Segurança** | Python-dotenv | Gerenciamento seguro de chaves de API e variáveis de ambiente |
 | **Frontend** | HTML5, CSS3, JS | Estruturação e estilização da interface e gráficos do Dashboard |
 =======
-#Projeto: Sistema de Controle de Estudos + Dashboard (StudyFlow)#
-Objetivo
-
-Criar um sistema onde o usuário:
-
-cria conta e faz login
-cadastra matérias
-adiciona sessões de estudo
-acompanha estatísticas
-recebe recomendações simples de estudo
->>>>>>> 022f8ffc68ef30bb6a1f7bd3819fe3778ba6c25e
