@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # 📊 StudyFlow - Sistema de Controle de Estudos + Dashboard
 
 > Status do Projeto: 🚀 Em Desenvolvimento (Sprint 1)
